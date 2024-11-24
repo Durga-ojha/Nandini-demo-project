@@ -1,2 +1,2 @@
 # Nandini-demo-project
-this is a demo class for git &amp; github class
+This is a demo class for git &amp; github class.
